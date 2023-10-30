@@ -6,11 +6,11 @@ const Loan = () => {
   const [sliderValue, setSliderValue] = useState(12000);
   const MAX = 30000;
 
-  // const getBackgroundSize = () => {
-  //   return {
-  //     backgroundSize: `${(sliderValue * 100) / MAX}% 100%`,
-  //   };
-  // };
+  const getBackgroundSize = () => {
+    return {
+      backgroundSize: `${(sliderValue * 100) / MAX}% 100%`,
+    };
+  };
   return (
     <section className="business-loan-section personal-loan ">
       <div className="overlay">
