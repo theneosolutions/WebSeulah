@@ -109,7 +109,7 @@ const Features = () => {
                       <span className="check d-flex align-items-center justify-content-center">
                         <Image src={check} alt="icon" />
                       </span>
-                      <span>Motrage loans</span>
+                      
                     </li>
                   </ul>
                 </div>
