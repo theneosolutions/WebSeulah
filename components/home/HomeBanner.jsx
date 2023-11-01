@@ -37,10 +37,10 @@ const HomeBanner = () => {
         </div>
       </div>
     <div className="mt-0"></div>
-<MainLoan/>
+{/* <MainLoan/> */}
 
       {/* Partners slider here */}
-      <Partners />
+      {/* <Partners /> */}
     
     </section>
   );

@@ -13,7 +13,7 @@ export const navData = [
   },
   {
     id: "au@201",
-    itm: "Product",
+    itm: "Our Services",
     url: "#",
     dropdown: true,
     dropdown_itms: [
@@ -22,36 +22,31 @@ export const navData = [
      
       {
         id: "sub@001",
-        dp_itm: "Business Loans",
+        dp_itm: "Micro Finance",
         url: "/business-loan",
       },
       {
         id: "sub@002",
-        dp_itm: "Educations Loans",
+        dp_itm: "consumer Durable Finance",
         url: "/educations-loan",
       },
-      {
-        id: "sub@003",
-        dp_itm: "Home Loans",
-        url: "/home-loan",
-      },
-      {
-        id: "sub@004",
-        dp_itm: "Car Loans",
-        url: "/car-loan",
-      },
-      {
-        id: "sub@005",
-        dp_itm: "Personal Loans",
-        url: "/personal-loan",
-      },
-      {
-        id: "du@04",
-        dp_itm: "Credit Card ",
-        url: "/card",
-      },
+     
     ],
   },
+  {
+    id: "au@2_91",
+    itm: "FAQ",
+    url: "/faqs",
+    dropdown: false,
+  },
+  {
+    id: "au@2_91",
+    itm: "Join Us",
+    url: "/career-single",
+    dropdown: false,
+  },
+ 
+  
   // {
   //   id: "au@2331",
   //   itm: "Pages",
@@ -130,7 +125,7 @@ export const navData = [
   // },
   {
     id: "au@221",
-    itm: "Contact Us",
+    itm: "Contact & Query",
     url: "/contact",
     dropdown: false,
   },

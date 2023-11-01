@@ -14,14 +14,14 @@ const BusinessSolutions = () => {
                 </h5>
                 <h4 className="title">An Instant Solution for your Financial Needs</h4>
                 <p>
-                Suleh has got you covered for all your financial needs, whether they're personal or business-related. We provide the best and quickest Islamic Shari'a-compliant loans without any hassle. 
+                Suleh has got you covered for all your financial needs, whether they're personal or Consumer-related. We provide the best and quickest Islamic Shari'a-compliant loans without any hassle. 
                 </p>
               </div>
             </div>
           </div>
           <div className="row cus-mar">
             {business_solutions_data.map((singleBusiness) => (
-              <div key={singleBusiness.id} className="col-lg-4 col-md-6">
+              <div key={singleBusiness.id} className="col-lg-6 col-md-6">
                 <BusinessSolutionsCard singleBusiness={singleBusiness} />
               </div>
             ))}

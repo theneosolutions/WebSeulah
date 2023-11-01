@@ -11,15 +11,15 @@ const Hero = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="text-area">
-                <h5 className="sub-title">About Us</h5>
-                <h2 className="title">
-                  Your ally in achieving ambition beyond borders
-                </h2>
-                <p>
+                <h5 className="sub-title">Why Us</h5>
+                <h5 className="title">
                 We are committed to providing top-tier financial services in full compliance with Islamic Sharia principles.
+                </h5>
+                <p>
                 Sauleh is a forward-thinking fintech organization committed to advancing financial inclusion in Saudi Arabia. The core purpose of our service is to provide a convenient and accessible platform for individuals and businesses to access various types of loans, such as personal loans, business loans, mortgages, and more.
 We offer Islamic Shari'a compliant loans to individuals in need, all without requiring a physical visit to a bank or branch. Our end-to-end Shari'a-approved process is meticulously designed for expediency and convenience, enabling you to access your desired loan amount within minutes of downloading our app.
-</p>
+
+                </p>
               </div>
               <div className="row cus-mar">
                 <div className="col-xl-4 col-md-4">

@@ -16,7 +16,7 @@ const AllFaqs = () => {
                 <h2 className="title">Frequently asked questions</h2>
                 <p>
                   Get answers to all questions you have and boost your knowledge
-                  so you can save, invest and spend smarter.
+                  so you can save, Your time.
                 </p>
               </div>
             </div>
@@ -34,7 +34,7 @@ const AllFaqs = () => {
                   aria-controls="account"
                   aria-selected="true"
                 >
-                  account
+                  Apply for Finance
                 </button>
               </li>
               <li className="nav-item" role="presentation">
@@ -48,7 +48,7 @@ const AllFaqs = () => {
                   aria-controls="affiliates"
                   aria-selected="false"
                 >
-                  affiliates
+                  Cash-out from Seulah
                 </button>
               </li>
               <li className="nav-item" role="presentation">
@@ -62,7 +62,7 @@ const AllFaqs = () => {
                   aria-controls="security"
                   aria-selected="false"
                 >
-                  security
+                  Repayment
                 </button>
               </li>
             </ul>

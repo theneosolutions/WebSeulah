@@ -1,40 +1,35 @@
 const faqData = [
   {
     id: 1,
-    question: "How do I locate the nearesty branch or ATM?",
+    question: "What is Seulah?",
     answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
+      "Seulah, a Fintech company founded in Saudi Arabia, operates under the regulatory oversight of the Saudi Central Bank, offering consumer micro-lending services in the kingdom. Our focus is on providing hassle-free, instant financing, eliminating the need for complex documentation or visits to physical bank branches.",
   },
   {
     id: 2,
-    question: "What do I do if I lose my card or it gets stolen?",
+    question: "What documentation is necessary for a personal finance application?",
     answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
+      "Seulah is a digital finance platform that eliminates the need for paperwork or documentation, as customer data is verified upon acceptance of the terms and conditions.",
   },
   {
     id: 3,
-    question: "What is your customer service number?",
+    question: "Are your services in accordance with Shariah principles?",
     answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
+      "Certainly, Seulah’s products adhere to Sharia principles.",
   },
   {
     id: 4,
-    question: "How do I reset my pin?",
+    question: "What are Seulah’s products?",
     answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
+      "At present, we provide microfinance and consumer durable finance services.",
   },
   {
     id: 5,
-    question: "What is required to use Digital Banking?",
+    question: "Do you offer credit cards?",
     answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
+      "We regret to inform you that this service is currently unavailable.",
   },
-  {
-    id: 6,
-    question: "Is digital banking secure?",
-    answer:
-      "If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, call us at (406) 555-0120.",
-  },
+  
 ];
 
 export default faqData;

@@ -91,26 +91,16 @@ const Features = () => {
                       <span className="check d-flex align-items-center justify-content-center">
                         <Image src={check} alt="icon" />
                       </span>
-                      <span>Personal loans</span>
+                      <span>Micro Financing </span>
                     </li>
                     <li className="list-item d-flex align-items-center ">
                       <span className="check d-flex align-items-center justify-content-center">
                         <Image src={check} alt="icon" />
                       </span>
-                      <span>Business loans</span>
+                      <span>Consumer Durable Finance</span>
                     </li>
-                    <li className="list-item d-flex align-items-center ">
-                      <span className="check d-flex align-items-center justify-content-center">
-                        <Image src={check} alt="icon" />
-                      </span>
-                      <span>Education loans</span>
-                    </li>
-                    <li className="list-item d-flex align-items-center ">
-                      <span className="check d-flex align-items-center justify-content-center">
-                        <Image src={check} alt="icon" />
-                      </span>
-                      
-                    </li>
+                    
+                    
                   </ul>
                 </div>
               </div>

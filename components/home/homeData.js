@@ -49,25 +49,19 @@ export const card_data = [
 export const business_solutions_data = [
   {
     id: 1,
-    title: "Personal Loan",
+    title: "Micro Financing ",
     icon: checking,
-    desc: "We provide personal loans in accordance with Islamic Sharia principles to assist individuals in covering their expenses, including weddings, education, and travel.",
+    desc: "Get your business loan approval in a matter of days with clear lending criteria and a transparent application process.",
     link: "/",
   },
   {
     id: 2,
-    title: "Auto Finance",
-    icon: savings,
-    desc: "Seulah's Islamic Auto Finance empowers you to acquire the car you desire simple, convenient and flexible solutions that adhere to Sharia’s complaint.",
-    link: "/",
-  },
-  {
-    id: 3,
-    title: "Business Loan",
+    title: "Consumer Durable Finance",
     icon: business,
-    desc: "Seulah provides a financing facility based for small and medium-sized entrepreneurs, assisting them in addressing their business-related financial requirements.",
+    desc: "We offer you convenient and flexible way to purchase a wide range of consumer goods, as per your requirement. ",
     link: "/",
   },
+ 
 ];
 
 export const articles_data = [

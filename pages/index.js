@@ -21,13 +21,14 @@ export default function Home() {
       <Features />
       <BusinessSolutions />
       <AppInfo />
-      <BankioCard />
-      {/* <CallToAction /> */}
-      <Planning />
-      {/* <Personalized /> */}
+      {/* <BankioCard /> */}
+      
+      {/* <Planning /> */}
+      <Personalized />
+  
       {/* <Testimonials /> */}
       {/* <LatestArticles /> */}
-      {/* <Faq /> */}
+      <Faq />
       <CallToAction/>
     </>
   );

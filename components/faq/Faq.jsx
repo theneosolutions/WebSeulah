@@ -10,12 +10,11 @@ const Faq = ({ cls = "" }) => {
             <div className="col-lg-6">
               <div className="section-header text-center">
                 <h5 className="sub-title">
-                  If you have question,we have answer
+                Frequently Asked Questions 
                 </h5>
                 <h2 className="title">Frequently asked questions</h2>
                 <p>
-                  Get answers to all questions you have and boost your knowledge
-                  so you can save, invest and spend smarter.{" "}
+                Seulah offers a online platform for individuals to apply for personal loans at their convenience, from anywhere. {" "}
                   <Link href="/faqs">See all questions here!</Link>
                 </p>
               </div>
